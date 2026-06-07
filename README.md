@@ -95,7 +95,3 @@ The project includes the following key performance indicators:
 * `data/README.md` — dataset source and download instructions.
 * `requirements.txt` — list of required Python libraries.
 
-## Author
-
-Olena
-Data Analytics Portfolio Project
