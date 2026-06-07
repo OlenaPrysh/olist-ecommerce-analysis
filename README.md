@@ -10,6 +10,9 @@ The project was completed as part of a Data Analytics portfolio and focuses on a
 
 The dataset used in this project is the **Brazilian E-Commerce Public Dataset by Olist**, available on Kaggle.
 
+Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 It contains information about:
 
 * orders
