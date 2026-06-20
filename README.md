@@ -58,6 +58,8 @@ The project includes the following key performance indicators:
 * Pandas
 * NumPy
 * Matplotlib
+* SciPy
+- Tableau Public
 * Jupyter Notebook
 
 ## Methods Used
@@ -97,4 +99,5 @@ The project includes the following key performance indicators:
 * `notebooks/olist_ecommerce_analysis.ipynb` — main Jupyter Notebook with full analysis.
 * `data/README.md` — dataset source and download instructions.
 * `requirements.txt` — list of required Python libraries.
+* `dashboard_preview.png — dashboard screenshot for the GitHub README.
 
