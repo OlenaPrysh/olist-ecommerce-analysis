@@ -75,6 +75,11 @@ The project includes the following key performance indicators:
 * Delivery performance analysis
 * Data visualization
 
+## Interactive Dashboard
+
+Tableau Public:
+https://public.tableau.com/views/OlistE-CommercePerformanceDashboard_17820024130120/OlistE-CommercePerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Key Findings
 
 * Revenue and order volume increased significantly during the analyzed period.
@@ -93,11 +98,3 @@ The project includes the following key performance indicators:
 * Develop customer retention strategies such as loyalty programs and personalized offers.
 * Focus marketing efforts on top-performing categories and high-revenue states.
 * Monitor customer satisfaction together with revenue metrics.
-
-## Project Files
-
-* `notebooks/olist_ecommerce_analysis.ipynb` — main Jupyter Notebook with full analysis.
-* `data/README.md` — dataset source and download instructions.
-* `requirements.txt` — list of required Python libraries.
-* `dashboard_preview.png — dashboard screenshot for the GitHub README.
-
